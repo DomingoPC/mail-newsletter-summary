@@ -1,0 +1,575 @@
+
+--------------------------------------------------
+New document
+--------------------------------------------------
+
+
+---------- Forwarded message ---------
+De: Artificial Intelligence Weekly  >
+Date: jue, 5 dic 2024 a las 23:01
+Subject: AI News Weekly - Issue #416: Cate Blanchett 'deeply concerned' by AI impact
+To:  >
+
+
+
+  
+Cate Blanchett has told the BBC she is "deeply concerned" about the impact of artificial intelligence (AI).
+ 
+
+  
+
+ 
+View on the Web      Archives  
+
+ISSUE #416: CATE BLANCHETT 'DEEPLY CONCERNED' BY AI IMPACT  December 5th 2024
+
+ 
+ 
+ 
+
+
+meta.com  
+
+ 
+ 
+
+Interested in sponsorship opportunities?  
+
+
+Join the AI conversation and transform your advertising strategy with AI weekly sponsorship
+
+aiweekly.co  
+
+ 
+ 
+
+  In the News  
+
+ 
+
+Cate Blanchett 'deeply concerned' by AI impact  
+
+
+Speaking on Sunday with Laura Kuenssberg, the Australian actress said: "I'm looking at these robots and driverless cars and I don't really know what that's bringing anybody."
+
+bbc.com  
+
+ 
+ 
+
+Our Sponsor
+
+ 
+  
+Meta’s open source AI is available to all, not just the few. So more people can build amazing things.
+
+Here’s how: Small businesses, start-ups, students, researchers and more can download and build with Meta's open source AI models at no cost.
+
+Learn more  
+
+ai.meta.com/open  
+
+ 
+ 
+
+  In The News  
+
+ 
+
+How to Manage Two Types of Generative AI  
+
+
+As organizations continue to experiment with and realize business value from generative artificial intelligence, leaders are implementing the technology in two distinct ways.
+
+mit.edu  
+
+ 
+________________________________
+
+
+Prompt Security secures $18M to enhance enterprise protection against generative AI risks  
+
+
+Security startup Prompt Security Inc. announced today that it has raised $18 million in new funding to further its mission to protect enterprises against generative artificial intelligence threats while offering visibility into and governance over gen AI tools.
+
+siliconangle.com  
+
+ 
+________________________________
+
+
+Use robots instead of hiring low-paid migrants, says shadow home secretary  
+
+
+The Conservative MP Chris Philp says other countries “use a lot more automation” for tasks such as picking fruit and vegetables “rather than simply importing a lot of low-wage migrant labour”.
+
+theguardian.com  
+
+ 
+ 
+
+  Applied use cases  
+
+ 
+
+AI finds previously undetected historical climate extremes  
+
+
+There are over 30,000 weather stations in the world, measuring temperature, precipitation and other indicators often on a daily basis. That's a massive amount of data for climate researchers to compile and analyze to produce the monthly and annual global and regional temperatures (especially) that make the news.
+
+phys.org  
+
+ 
+________________________________
+
+
+U.S. Military Makes First Confirmed OpenAI Purchase for War-Fighting Forces  
+
+
+The Pentagon explored the AI software for research, but the new deal is the first by a combatant command whose mission is one of killing.
+
+theintercept.com  
+
+ 
+________________________________
+
+
+South Korea becomes first country to fill 10% of workforce with robots  
+
+
+The country now has 1,102 robots per 10,000 employees, according to the annual survey by World Robotics 2024, having become the world’s number one adopter of robot workers in factories in recent years.
+
+independent.co.uk  
+
+ 
+ 
+
+  Ethics  
+
+ 
+
+Could AI alter what it means to be human?  
+
+
+Smaller brains? Fewer friends? An evolutionary biologist asks how artificial intelligence could impact humanity
+
+opendemocracy.net  
+
+ 
+________________________________
+
+
+MHRA pilots ‘AI Airlock’ to accelerate healthcare adoption  
+
+
+AI Airlock aims to refine the process of regulating AI-driven medical devices and help fast-track their safe introduction to the UK’s National Health Service (NHS) and patients in need.
+
+artificialintelligence-news.com  
+
+ 
+________________________________
+
+
+The rapid pace of AI development presents a challenge for the communications field.  
+
+
+The rapid advancement and adoption of generative artificial intelligence (AI) is revolutionizing the field of communications. AI-powered tools can now generate convincing text, images, audio and video from textual prompts.
+
+theconversation.com  
+
+ 
+ 
+
+  Robotics  
+
+ 
+
+Now anyone in LA can hail a Waymo robotaxi  
+
+
+Waymo has opened its robotaxi service to everyone in Los Angeles, sunsetting a waitlist that had grown to 300,000 people.
+
+techcrunch.com  
+
+ 
+________________________________
+
+
+A single algorithm can help robots make good decisions in real time  
+
+
+In 2018, Google DeepMind's AlphaZero program taught itself the games of chess, shogi, and Go using machine learning and a special algorithm to determine the best moves to win a game within a defined grid.
+
+techxplore.com  
+
+ 
+________________________________
+
+
+5 Questions for Robotics Legend Ruzena Bajcsy  
+
+
+Ruzena Bajcsy is one of the founders of the modern field of robotics. With an education in electrical engineering in Slovakia, followed by a Ph.D. at Stanford, Bajcsy was the first woman to join the engineering faculty at the University of Pennsylvania.
+
+ieee.org  
+
+ 
+ 
+
+  Research  
+
+ 
+
+How close is AI to human-level intelligence?  
+
+
+Large language models such as OpenAI’s o1 have electrified the debate over achieving artificial general intelligence, or AGI. But they are unlikely to reach this milestone on their own.
+
+nature.com  
+
+ 
+________________________________
+
+
+ChatGPT turns two: how the AI chatbot has changed scientists’ lives  
+
+
+in the two years since ChatGPT was released to the public, researchers have been using it to polish their academic writing, review the scientific literature and write code to analyse data.
+
+nature.com  
+
+ 
+________________________________
+
+
+AI for Geoscience: Progress, Challenges, and Perspectives  
+
+
+What does AI bring to geoscience? AI has been accelerating and deepening our understanding of Earth Systems in an unprecedented way, including the atmosphere, lithosphere, hydrosphere, cryosphere, biosphere, anthroposphere and the interactions between spheres.
+
+cell.com  
+
+ 
+ 
+
+Presented By Meta
+
+ 
+  
+Meta’s open source AI enables small businesses, start-ups, students, researchers and more to download and build with our models at no cost.
+
+Open source AI models are available to all. And when AI models are available to all, everyone benefits.
+
+Learn more  
+
+ai.meta.com/open  
+
+ 
+ 
+We are pleased to share our sister newsletter, Essentials with you. Discover what the most trusted industry experts are reading to expand your knowledge by choosing from 10 AI topics:
+
+AI General News   | AI Ethics   | AI Applied Use Cases   | AI Robotics   | AI Research   | AI Marketing   | AI Healthcare   | AI Cybersecurity   | AI For Good   | Business of AI   |
+
+Artificial Intelligence Weekly
+
+ 
+You received this email because you subscribed via the AI News Weekly   site.
+We'll be sorry to see you go but you can unsubscribe instantly  . 
+ 
+Faveeo Switzerland
+ 
+ 
+________________________________
+
+ 
+ 
+©2024 AI News Weekly | Privacy Policy   | Image moderation 
+
+  
+--------------------------------------------------
+New document
+--------------------------------------------------
+
+
+---------- Forwarded message ---------
+De: Artificial Intelligence Weekly  >
+Date: jue, 5 dic 2024 a las 23:01
+Subject: AI News Weekly - Issue #416: Cate Blanchett 'deeply concerned' by AI impact
+To:  >
+
+
+
+  
+Cate Blanchett has told the BBC she is "deeply concerned" about the impact of artificial intelligence (AI).
+ 
+
+  
+
+ 
+View on the Web      Archives  
+
+ISSUE #416: CATE BLANCHETT 'DEEPLY CONCERNED' BY AI IMPACT  December 5th 2024
+
+ 
+ 
+ 
+
+
+meta.com  
+
+ 
+ 
+
+Interested in sponsorship opportunities?  
+
+
+Join the AI conversation and transform your advertising strategy with AI weekly sponsorship
+
+aiweekly.co  
+
+ 
+ 
+
+  In the News  
+
+ 
+
+Cate Blanchett 'deeply concerned' by AI impact  
+
+
+Speaking on Sunday with Laura Kuenssberg, the Australian actress said: "I'm looking at these robots and driverless cars and I don't really know what that's bringing anybody."
+
+bbc.com  
+
+ 
+ 
+
+Our Sponsor
+
+ 
+  
+Meta’s open source AI is available to all, not just the few. So more people can build amazing things.
+
+Here’s how: Small businesses, start-ups, students, researchers and more can download and build with Meta's open source AI models at no cost.
+
+Learn more  
+
+ai.meta.com/open  
+
+ 
+ 
+
+  In The News  
+
+ 
+
+How to Manage Two Types of Generative AI  
+
+
+As organizations continue to experiment with and realize business value from generative artificial intelligence, leaders are implementing the technology in two distinct ways.
+
+mit.edu  
+
+ 
+________________________________
+
+
+Prompt Security secures $18M to enhance enterprise protection against generative AI risks  
+
+
+Security startup Prompt Security Inc. announced today that it has raised $18 million in new funding to further its mission to protect enterprises against generative artificial intelligence threats while offering visibility into and governance over gen AI tools.
+
+siliconangle.com  
+
+ 
+________________________________
+
+
+Use robots instead of hiring low-paid migrants, says shadow home secretary  
+
+
+The Conservative MP Chris Philp says other countries “use a lot more automation” for tasks such as picking fruit and vegetables “rather than simply importing a lot of low-wage migrant labour”.
+
+theguardian.com  
+
+ 
+ 
+
+  Applied use cases  
+
+ 
+
+AI finds previously undetected historical climate extremes  
+
+
+There are over 30,000 weather stations in the world, measuring temperature, precipitation and other indicators often on a daily basis. That's a massive amount of data for climate researchers to compile and analyze to produce the monthly and annual global and regional temperatures (especially) that make the news.
+
+phys.org  
+
+ 
+________________________________
+
+
+U.S. Military Makes First Confirmed OpenAI Purchase for War-Fighting Forces  
+
+
+The Pentagon explored the AI software for research, but the new deal is the first by a combatant command whose mission is one of killing.
+
+theintercept.com  
+
+ 
+________________________________
+
+
+South Korea becomes first country to fill 10% of workforce with robots  
+
+
+The country now has 1,102 robots per 10,000 employees, according to the annual survey by World Robotics 2024, having become the world’s number one adopter of robot workers in factories in recent years.
+
+independent.co.uk  
+
+ 
+ 
+
+  Ethics  
+
+ 
+
+Could AI alter what it means to be human?  
+
+
+Smaller brains? Fewer friends? An evolutionary biologist asks how artificial intelligence could impact humanity
+
+opendemocracy.net  
+
+ 
+________________________________
+
+
+MHRA pilots ‘AI Airlock’ to accelerate healthcare adoption  
+
+
+AI Airlock aims to refine the process of regulating AI-driven medical devices and help fast-track their safe introduction to the UK’s National Health Service (NHS) and patients in need.
+
+artificialintelligence-news.com  
+
+ 
+________________________________
+
+
+The rapid pace of AI development presents a challenge for the communications field.  
+
+
+The rapid advancement and adoption of generative artificial intelligence (AI) is revolutionizing the field of communications. AI-powered tools can now generate convincing text, images, audio and video from textual prompts.
+
+theconversation.com  
+
+ 
+ 
+
+  Robotics  
+
+ 
+
+Now anyone in LA can hail a Waymo robotaxi  
+
+
+Waymo has opened its robotaxi service to everyone in Los Angeles, sunsetting a waitlist that had grown to 300,000 people.
+
+techcrunch.com  
+
+ 
+________________________________
+
+
+A single algorithm can help robots make good decisions in real time  
+
+
+In 2018, Google DeepMind's AlphaZero program taught itself the games of chess, shogi, and Go using machine learning and a special algorithm to determine the best moves to win a game within a defined grid.
+
+techxplore.com  
+
+ 
+________________________________
+
+
+5 Questions for Robotics Legend Ruzena Bajcsy  
+
+
+Ruzena Bajcsy is one of the founders of the modern field of robotics. With an education in electrical engineering in Slovakia, followed by a Ph.D. at Stanford, Bajcsy was the first woman to join the engineering faculty at the University of Pennsylvania.
+
+ieee.org  
+
+ 
+ 
+
+  Research  
+
+ 
+
+How close is AI to human-level intelligence?  
+
+
+Large language models such as OpenAI’s o1 have electrified the debate over achieving artificial general intelligence, or AGI. But they are unlikely to reach this milestone on their own.
+
+nature.com  
+
+ 
+________________________________
+
+
+ChatGPT turns two: how the AI chatbot has changed scientists’ lives  
+
+
+in the two years since ChatGPT was released to the public, researchers have been using it to polish their academic writing, review the scientific literature and write code to analyse data.
+
+nature.com  
+
+ 
+________________________________
+
+
+AI for Geoscience: Progress, Challenges, and Perspectives  
+
+
+What does AI bring to geoscience? AI has been accelerating and deepening our understanding of Earth Systems in an unprecedented way, including the atmosphere, lithosphere, hydrosphere, cryosphere, biosphere, anthroposphere and the interactions between spheres.
+
+cell.com  
+
+ 
+ 
+
+Presented By Meta
+
+ 
+  
+Meta’s open source AI enables small businesses, start-ups, students, researchers and more to download and build with our models at no cost.
+
+Open source AI models are available to all. And when AI models are available to all, everyone benefits.
+
+Learn more  
+
+ai.meta.com/open  
+
+ 
+ 
+We are pleased to share our sister newsletter, Essentials with you. Discover what the most trusted industry experts are reading to expand your knowledge by choosing from 10 AI topics:
+
+AI General News   | AI Ethics   | AI Applied Use Cases   | AI Robotics   | AI Research   | AI Marketing   | AI Healthcare   | AI Cybersecurity   | AI For Good   | Business of AI   |
+
+Artificial Intelligence Weekly
+
+ 
+You received this email because you subscribed via the AI News Weekly   site.
+We'll be sorry to see you go but you can unsubscribe instantly  . 
+ 
+Faveeo Switzerland
+ 
+ 
+________________________________
+
+ 
+ 
+©2024 AI News Weekly | Privacy Policy   | Image moderation 
+
+  
